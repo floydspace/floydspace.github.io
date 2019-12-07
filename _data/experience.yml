@@ -1,30 +1,36 @@
 - layout: left
   company: Blanco Services B.V.
+  logo: images/logo-blanco.png
   link: www.useblanco.com
   job_title: Software Developer
   dates: September 2018 - Present
 - layout: left
   company: Kaspersky Lab
+  logo: images/kaspersky-logo.svg
   link: www.kaspersky.com
   job_title: Web Developer
   dates: January 2018 - September 2018
 - layout: left
   company: Saritasa LLC
+  logo: images/saritasa-logo.png
   link: www.saritasa.com
   job_title: .NET Developer
   dates: January 2016 - December 2017
 - layout: left
   company: OOO KB KOLTSO URALA
+  logo: images/kubank-logo.png
   link: www.kubank.ru
   job_title: Treasury Department Specialist
   dates: May 2012 - December 2015
 - layout: left
   company: ALOR Group
+  logo: images/alor-logo.jpg
   link: www.alor.ru
   job_title: Branch Manager, Equity Trader
   dates: October 2010 - May 2012
 - layout: left
   company: IFC Eurogreen LLC
+  logo: images/eurogreen-logo.png
   link: www.eurogreen.ru
   job_title: Equity Trader
   dates: September 2006 - September 2010
