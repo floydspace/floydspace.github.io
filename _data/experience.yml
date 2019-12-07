@@ -8,6 +8,7 @@
     - Develop front-end SPA application, improve performance and code quality
     - Architect and develop from scratch new microservices taking into account scalability
     - Brought TypeScript as development standard for the team thereby improve overall code quality
+    
     **Stack**: <mark>NodeJS</mark>, <mark>Webpack</mark>, <mark>GraphQL</mark>, <mark>Serverless</mark>, <mark>AWS</mark>, <mark>Lambda</mark>, <mark>S3</mark>, <mark>ECS</mark>, <mark>DynamoDB</mark>, <mark>RDS</mark>, <mark>SQS</mark>, <mark>Angular</mark>
 - layout: left
   company: Kaspersky Lab
@@ -20,6 +21,7 @@
     - Migrated about 5% of Backbone application to Angular taking into account common architectural decisions
     - Implemented Redmine tracking system integration for the Beta Testing Kaspersky Forum
     - Mentor junior colleagues about Angular development best practices thereby let them jump-start with it smoother
+    
     **Stack**: <mark>Angular</mark>, <mark>Gulp</mark>, <mark>Backbone</mark>, <mark>ASP.NET MVC</mark>, <mark>jQuery</mark>, <mark>NodeJS</mark>, <mark>MongoDB</mark>
 - layout: left
   company: Saritasa LLC
