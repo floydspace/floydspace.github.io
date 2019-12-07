@@ -1,3 +1,56 @@
-theme: jekyll-theme-minimal
-logo: https://avatars2.githubusercontent.com/u/5180700
-title: Victor Korzunin
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Victor Korzunin
+title: Software Developer
+website: floydspace.github.io
+
+# Social links
+github_username: floydspace
+# dribbble_username: jekyll
+facebook_username: f10yd
+# flickr_username: jekyll
+# instagram_username: victor_korzunin
+linkedin_username: korzunin
+# pinterest_username: jekyll
+youtube_username: Victor Korzunin
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Formerly I used to be a financial market trader and had been working in financial companies and a bank for 10 years in common. Software Development was one of my hobbies which helped me in my work. Recently I decided to do software development professionally and realized it is what I've desired to be doing.
+  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software development some of my other interests and hobbies are:
+   - Snowboarding
+   - Mountain Hiking
+   - Cycling
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
