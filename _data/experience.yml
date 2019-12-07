@@ -1,5 +1,6 @@
-- layout: left
+- layout: custom
   company: Blanco Services B.V.
+  city: Rotterdam
   logo: images/logo-blanco.png
   link: www.useblanco.com
   job_title: Software Developer
@@ -8,10 +9,11 @@
     - Develop front-end SPA application, improve performance and code quality
     - Architect and develop from scratch new microservices taking into account scalability
     - Brought TypeScript as development standard for the team thereby improve overall code quality
-    
+
     **Stack**: <mark>NodeJS</mark>, <mark>Webpack</mark>, <mark>GraphQL</mark>, <mark>Serverless</mark>, <mark>AWS</mark>, <mark>Lambda</mark>, <mark>S3</mark>, <mark>ECS</mark>, <mark>DynamoDB</mark>, <mark>RDS</mark>, <mark>SQS</mark>, <mark>Angular</mark>
-- layout: left
+- layout: custom
   company: Kaspersky Lab
+  city: Moscow
   logo: images/kaspersky-logo.svg
   link: www.kaspersky.com
   job_title: Web Developer
@@ -21,28 +23,32 @@
     - Migrated about 5% of Backbone application to Angular taking into account common architectural decisions
     - Implemented Redmine tracking system integration for the Beta Testing Kaspersky Forum
     - Mentor junior colleagues about Angular development best practices thereby let them jump-start with it smoother
-    
+
     **Stack**: <mark>Angular</mark>, <mark>Gulp</mark>, <mark>Backbone</mark>, <mark>ASP.NET MVC</mark>, <mark>jQuery</mark>, <mark>NodeJS</mark>, <mark>MongoDB</mark>
-- layout: left
+- layout: custom
   company: Saritasa LLC
+  city: Yekaterinburg
   logo: images/saritasa-logo.png
   link: www.saritasa.com
   job_title: .NET Developer
   dates: January 2016 - December 2017
-- layout: left
+- layout: custom
   company: OOO KB KOLTSO URALA
+  city: Yekaterinburg
   logo: images/kubank-logo.png
   link: www.kubank.ru
   job_title: Treasury Department Specialist
   dates: May 2012 - December 2015
-- layout: left
+- layout: custom
   company: ALOR Group
+  city: Yekaterinburg
   logo: images/alor-logo.jpg
   link: www.alor.ru
   job_title: Branch Manager, Equity Trader
   dates: October 2010 - May 2012
-- layout: left
+- layout: custom
   company: IFC Eurogreen LLC
+  city: Yekaterinburg
   logo: images/eurogreen-logo.png
   link: www.eurogreen.ru
   job_title: Equity Trader

@@ -3,3 +3,12 @@
 ---
 
 @import 'modern-resume-theme';
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.job-header {
+  display: flex;
+  justify-content: space-between;
+}
