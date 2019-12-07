@@ -15,7 +15,7 @@ facebook_username: f10yd
 # instagram_username: victor_korzunin
 linkedin_username: korzunin
 # pinterest_username: jekyll
-youtube_username: Victor Korzunin
+youtube_username: ВикторКорзунин
 # googleplus_username: +jekyll
 
 # About Section
@@ -23,7 +23,6 @@ youtube_username: Victor Korzunin
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Formerly I used to be a financial market trader and had been working in financial companies and a bank for 10 years in common. Software Development was one of my hobbies which helped me in my work. Recently I decided to do software development professionally and realized it is what I've desired to be doing.
-  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
