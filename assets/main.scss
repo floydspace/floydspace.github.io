@@ -26,3 +26,35 @@
     display: none;
   }
 }
+
+.skills-container {
+  .details {
+    height: 150px;
+    display: flex;
+    flex-flow: wrap;
+    flex-direction: column;
+  }
+  .skill {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3px;
+
+    .label {
+      font-size: 1.6em;
+      text-align: justify;
+      width: 150px;
+    }
+  }
+  .points {
+    display: flex;
+    justify-content: space-between;
+    width: 80px;
+  }
+
+  .point {
+    width: 10px;
+    height: 10px;
+    background-color: #2b77ea;
+    border-radius: 50%;
+  }
+}

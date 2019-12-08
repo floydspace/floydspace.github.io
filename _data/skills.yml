@@ -1,0 +1,18 @@
+- skill: JavaScript/TypeScript
+  score: [1,1,1,1,1]
+- skill: NodeJS
+  score: [1,1,1,1,1]
+- skill: Angular
+  score: [1,1,1,1,1]
+- skill: C# .NET
+  score: [1,1,1,1]
+- skill: SQL
+  score: [1,1,1,1]
+- skill: AWS
+  score: [1,1,1,1]
+- skill: Cordova
+  score: [1,1,1,1]
+- skill: Golang
+  score: [1,1,1]
+- skill: Docker
+  score: [1,1,1]
