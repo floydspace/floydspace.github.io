@@ -1,12 +1,12 @@
 - layout: custom
   logo: images/aws-logo.png
-  badge: https://www.certmetrics.com/api/ob/image/amazon/c/1
+  badge: images/aws-badge.png
   link: https://www.certmetrics.com/amazon/public/badge.aspx?i=1&amp;t=c&amp;d=2019-10-07&amp;ci=AWS00912749
   dates: October 2019 - October 2022
   qualification: AWS Certified Solutions Architect - Associate
 - layout: custom
   logo: images/microsoft-logo.png
-  badge: https://images.youracclaim.com/size/680x680/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming%2Bin%2BC_23-01.png
+  badge: images/microsoft-badge.png
   link: https://www.youracclaim.com/badges/126384ae-4c49-4954-a71b-dec69797c21c/linked_in_profile
   dates: November 2016
   qualification: 'Exam 483: Programming in C# Microsoft Certified Professional'
