@@ -8,7 +8,16 @@
   text-transform: uppercase;
 }
 
-.job-header {
-  display: flex;
-  justify-content: space-between;
+.job-header > p {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .job-header > p {
+    display: block;
+  }
 }
