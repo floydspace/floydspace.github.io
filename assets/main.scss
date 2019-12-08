@@ -54,7 +54,10 @@
   .point {
     width: 10px;
     height: 10px;
-    background-color: #2b77ea;
     border-radius: 50%;
+    background-color: lightgray;
+  }
+  .point.on {
+    background-color: #2b77ea;
   }
 }

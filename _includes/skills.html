@@ -6,11 +6,11 @@
       <div class="skill">
         <div class="label">{{ skill.skill }}</div>
         <div class="points">
-          <div class="point {%- if skill.score[0] -%}on{%- endif -%}"></div>
-          <div class="point {%- if skill.score[1] -%}on{%- endif -%}"></div>
-          <div class="point {%- if skill.score[2] -%}on{%- endif -%}"></div>
-          <div class="point {%- if skill.score[3] -%}on{%- endif -%}"></div>
-          <div class="point {%- if skill.score[4] -%}on{%- endif -%}"></div>
+          <div class="{{ 'point ' }}{%- if skill.score[0] -%}on{%- endif -%}"></div>
+          <div class="{{ 'point ' }}{%- if skill.score[1] -%}on{%- endif -%}"></div>
+          <div class="{{ 'point ' }}{%- if skill.score[2] -%}on{%- endif -%}"></div>
+          <div class="{{ 'point ' }}{%- if skill.score[3] -%}on{%- endif -%}"></div>
+          <div class="{{ 'point ' }}{%- if skill.score[4] -%}on{%- endif -%}"></div>
         </div>
       </div>
       {% endfor %}
