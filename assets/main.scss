@@ -37,7 +37,9 @@
   .skill {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     margin-bottom: 3px;
+    width: 280px;
 
     .skill-label {
       font-size: 1.6em;
@@ -48,12 +50,12 @@
   .points {
     display: flex;
     justify-content: space-between;
-    width: 80px;
+    width: 90px;
   }
 
   .point {
-    width: 10px;
-    height: 10px;
+    width: 12px;
+    height: 12px;
     border-radius: 50%;
     background-color: lightgray;
   }
