@@ -1,5 +1,5 @@
 - layout: custom
-  company: Blanco Services B.V.
+  company: Blanco Services
   city: Rotterdam
   logo: images/logo-blanco.png
   link: www.useblanco.com
@@ -22,18 +22,25 @@
     - Worked as part of team on new features and bugs
     - Migrated about 5% of Backbone application to Angular taking into account common architectural decisions
     - Implemented Redmine tracking system integration for the Beta Testing Kaspersky Forum
-    - Mentor junior colleagues about Angular development best practices thereby let them jump-start with it smoother
+    - Mentor junior developers about Angular best practices thereby let them jump-start with it smoother
 
     **Stack**: <mark>Angular</mark>, <mark>Gulp</mark>, <mark>Backbone</mark>, <mark>ASP.NET MVC</mark>, <mark>jQuery</mark>, <mark>NodeJS</mark>, <mark>MongoDB</mark>
 - layout: custom
-  company: Saritasa LLC
+  company: Local division of Saritasa
   city: Yekaterinburg
   logo: images/saritasa-logo.png
   link: www.saritasa.com
   job_title: .NET Developer
   dates: January 2016 - December 2017
+  description: |
+    - Worked on different .NET projects as a full-stack web developer
+    - Migrated legacy ASP.NET WebForms applications to the new client-server architecture approach with RESTful API
+    - Leading a front-end team developing Angular and Cordova applications
+    - Mentor junior developers about Angular best practices thereby let them jump-start with it smoother
+
+    **Stack**: <mark>ASP.NET MVC</mark>, <mark>ASP.NET WebApi</mark>, <mark>ASP.NET WebForms</mark>, <mark>Entity Framework</mark>, <mark>AngularJS</mark>, <mark>Angular</mark>, <mark>Cordova</mark>, <mark>Ionic</mark>
 - layout: custom
-  company: OOO KB KOLTSO URALA
+  company: Koltso Urala Bank
   city: Yekaterinburg
   logo: images/kubank-logo.png
   link: www.kubank.ru
@@ -47,7 +54,7 @@
   job_title: Branch Manager, Equity Trader
   dates: October 2010 - May 2012
 - layout: custom
-  company: IFC Eurogreen LLC
+  company: IFC Eurogreen
   city: Yekaterinburg
   logo: images/eurogreen-logo.png
   link: www.eurogreen.ru
