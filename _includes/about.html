@@ -10,7 +10,9 @@
       {{ site.about_content | strip | markdownify }}
       <div style="float: right;">
         {% for certification in site.data.certifications %}
-          <a href="{{ certification.link }}"><img src="{{ certification.badge }}" alt="" width="125"></a>
+          {%- if certification.badge -%}
+            <a href="{{ certification.link }}"><img src="{{ certification.badge }}" alt="" width="125"></a>
+          {%- endif -%}
         {% endfor %}
       </div>
     </div>

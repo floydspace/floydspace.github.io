@@ -1,5 +1,5 @@
 - layout: custom
-  company: Blanco Services
+  name: Blanco Services
   city: Rotterdam
   logo: images/logo-blanco.png
   link: www.useblanco.com
@@ -12,7 +12,7 @@
 
     **Stack**: <mark>NodeJS</mark>, <mark>Webpack</mark>, <mark>GraphQL</mark>, <mark>Serverless</mark>, <mark>AWS</mark>, <mark>Lambda</mark>, <mark>S3</mark>, <mark>ECS</mark>, <mark>DynamoDB</mark>, <mark>RDS</mark>, <mark>SQS</mark>, <mark>Angular</mark>
 - layout: custom
-  company: Kaspersky Lab
+  name: Kaspersky Lab
   city: Moscow
   logo: images/kaspersky-logo.svg
   link: www.kaspersky.com
@@ -26,7 +26,7 @@
 
     **Stack**: <mark>Angular</mark>, <mark>Gulp</mark>, <mark>Backbone</mark>, <mark>ASP.NET MVC</mark>, <mark>jQuery</mark>, <mark>NodeJS</mark>, <mark>MongoDB</mark>
 - layout: custom
-  company: Local division of Saritasa
+  name: Local division of Saritasa
   city: Yekaterinburg
   logo: images/saritasa-logo.png
   link: www.saritasa.com
@@ -40,7 +40,7 @@
 
     **Stack**: <mark>ASP.NET MVC</mark>, <mark>ASP.NET WebApi</mark>, <mark>ASP.NET WebForms</mark>, <mark>Entity Framework</mark>, <mark>AngularJS</mark>, <mark>Angular</mark>, <mark>Cordova</mark>, <mark>Ionic</mark>
 - layout: custom
-  company: Koltso Urala Bank
+  name: Koltso Urala Bank
   city: Yekaterinburg
   logo: images/kubank-logo.png
   link: www.kubank.ru
@@ -49,10 +49,10 @@
   description: |
     - Mainly I was responsible for dealer transactions such as interbank and forex trades, banknote and repos transactions
     - By my own initiative, I automated some business processes inside department which helped to make decisions during management the bank liquidity lifecycle
-    
+
     **Stack**: <mark>C#</mark>, <mark>WinForms</mark>, <mark>WPF</mark>, <mark>MS Access</mark>
 - layout: custom
-  company: ALOR Group
+  name: ALOR Group
   city: Yekaterinburg
   logo: images/alor-logo.jpg
   link: www.alor.ru
@@ -65,7 +65,7 @@
 
     **Stack**: <mark>VBA</mark>, <mark>C#</mark>, <mark>WinForms</mark>
 - layout: custom
-  company: IFC Eurogreen
+  name: IFC Eurogreen
   city: Yekaterinburg
   logo: images/eurogreen-logo.png
   link: www.eurogreen.ru
@@ -75,5 +75,5 @@
     - Intraday dealer operations with *equities* and *futures* were my main responsibility
     - Apart from trading I was training and recruiting freshpeople on the equity trader role
     - That time I started to show an interest in programming
-    
+
     **Stack**: <mark>VBA</mark>, <mark>VB.NET</mark>, <mark>Delphi</mark>
