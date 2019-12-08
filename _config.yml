@@ -34,9 +34,9 @@ about_content: |
 more_title: Hobbies
 more_content: |
   Alongside my interests in software development some of my other interests and hobbies are:
-   - Snowboarding :snowboarder:
-   - Mountain Hiking :mount_fuji:
-   - Cycling :mountain_bicyclist:
+   - <g-emoji class="g-emoji" alias="snowboarder" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c2.png">🏂</g-emoji> Snowboarding
+   - <g-emoji class="g-emoji" alias="mount_fuji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5fb.png">🗻</g-emoji> Mountain Hiking
+   - <g-emoji class="g-emoji" alias="mountain_biking_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">🚵</g-emoji> Cycling
 
 # Footer
 footer_show_references: true
