@@ -1,17 +1,17 @@
 - layout: custom
   logo: images/aws-logo.png
-  name: AWS Certified Solutions Architect - Associate
   dates: October 2019 - October 2022
+  qualification: AWS Certified Solutions Architect - Associate
 - layout: custom
   logo: images/microsoft-logo.png
-  name: 'Exam 483: Programming in C# Microsoft Certified Professional'
   dates: November 2016
+  qualification: 'Exam 483: Programming in C# Microsoft Certified Professional'
 - layout: custom
-  name: Series 5.0 qualification course on administration of investment funds, mutual investment funds, and non-government pension funds
   dates: December 2007
+  qualification: Series 5.0 qualification course on administration of investment funds, mutual investment funds, and non-government pension funds
 - layout: custom
-  name: Series 4.0 qualification course on depositary procedures
   dates: March 2007
+  qualification: Series 4.0 qualification course on depositary procedures
 - layout: custom
-  name: Series 1.0 qualification course on broker/dealer activity, and securities management
   dates: November 2006
+  qualification: Series 1.0 qualification course on broker/dealer activity, and securities management

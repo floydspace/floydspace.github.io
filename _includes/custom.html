@@ -29,7 +29,7 @@
       {%- if include.item.logo -%}
         <p>
           <a href="{% if protocol != 'http' %}//{% endif %}{{ include.item.link }}" target="_blank">
-            <img src="{{ include.item.logo }}" width="150" />
+            <img class="logo" src="{{ include.item.logo }}" />
           </a>
         </p>
       {%- endif -%}
