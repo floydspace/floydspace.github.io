@@ -104,6 +104,11 @@
         {%- endif -%}
       </ul>
 
+      {%- if site.address -%}
+      <p>
+        Address: <a href="https://maps.google.com/?q={{ site.address }}" target="_blank">{{ site.address | escape }}</a>
+      </p>
+      {%- endif -%}
       {%- if site.email -%}
       <p>
         Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
