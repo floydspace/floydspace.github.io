@@ -1,7 +1,7 @@
 <div class="container skills-container">
   <h3>{{ site.skills_title | default: "Skills" }}</h3>
   <div class="row clearfix">
-    <div class="col-xs-12 col-sm-offset-4 col-sm-8 col-md-offset-3 col-md-9 col-print-12 details">
+    <div class="col-xs-12 details">
       {% for skill in site.data.skills %}
       <div class="skill">
         <div class="skill-label">{{ skill.skill }}</div>
