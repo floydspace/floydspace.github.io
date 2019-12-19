@@ -11,7 +11,7 @@
       <div style="float: right;">
         {% for certification in site.data.certifications %}
           {%- if certification.badge -%}
-            <a href="{{ certification.link }}"><img src="{{ certification.badge }}" alt="" width="125"></a>
+            <a href="{{ certification.link }}" target="_blank"><img src="{{ certification.badge }}" alt="" width="125"></a>
           {%- endif -%}
         {% endfor %}
       </div>
