@@ -15,6 +15,9 @@ facebook_username: f10yd
 instagram_username: victor_korzunin
 linkedin_username: korzunin
 
+# Google Analytics and Tag Manager
+gtag: UA-155264465-1
+
 # About Section
 about_title: Profile
 about_profile_image: images/profile.jpeg
@@ -48,4 +51,4 @@ more_content: |
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
