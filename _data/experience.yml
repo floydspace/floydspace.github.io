@@ -28,7 +28,7 @@
 - layout: custom
   name: Local division of Saritasa
   city: Yekaterinburg
-  logo: images/saritasa-logo.png
+  logo: images/saritasa-logo.svg
   link: www.saritasa.com
   job_title: .NET Developer
   dates: January 2016 - December 2017
