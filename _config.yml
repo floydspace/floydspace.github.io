@@ -1,6 +1,7 @@
 # Site
 repository: floydspace/floydspace.github.io
 favicon: images/favicon.ico
+darkmode: false
 
 # Personal info
 name: Victor Korzunin

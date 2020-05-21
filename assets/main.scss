@@ -69,3 +69,14 @@
     background-color: #333 !important;
   }
 }
+
+.dark {
+  .skills-container {
+    .point {
+      background-color: #333 !important;
+    }
+    .point.on {
+      background-color: lightgray !important;
+    }
+  }
+}
