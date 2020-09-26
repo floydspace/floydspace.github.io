@@ -62,21 +62,45 @@
   .point {
     width: 12px;
     height: 12px;
+    font-size: 0;
     border-radius: 50%;
-    background-color: lightgray !important;
+
+    i {
+      color: lightgray !important;
+      font-size: 1.2rem;
+      @media print {
+        display: none;
+      }
+    }
+
   }
   .point.on {
-    background-color: #333 !important;
+    i {
+      color: #333 !important;
+      @media print {
+        display: initial;
+      }
+    }
+
   }
 }
 
-.dark {
-  .skills-container {
-    .point {
-      background-color: #333 !important;
-    }
-    .point.on {
-      background-color: lightgray !important;
+@media print {
+  .layout > .details {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media not print {
+  .dark {
+    .skills-container {
+      .point i {
+        color: #333 !important;
+      }
+      .point.on i {
+        color: lightgray !important;
+      }
     }
   }
 }
