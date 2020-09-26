@@ -1,7 +1,23 @@
 {% assign protocol = include.item.link | strip | slice: 0, 4 %}
+{% assign start_date = include.item.start_date | date: '%s' %}
+{% assign end_date_item = include.item.end_date | default: "now" %}
+{% assign end_date = end_date_item | date: '%s' %}
+{% assign diffYearsExact = end_date | minus: start_date | divided_by: 3600.0 | divided_by: 24.0 | divided_by: 365.0 %}
+{% assign diffYears = end_date | minus: start_date | divided_by: 3600 | divided_by: 24 | divided_by: 365 %}
+{% assign diffMonths = diffYearsExact | minus: diffYears | times: 12 | ceil %}
+{%- if diffMonths == 12 -%}
+  {% assign diffYears = diffYears | plus: 1 %}
+  {% assign diffMonths = 0 %}
+{%- endif -%}
 <div class="row clearfix layout layout-left">
   <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
     {%- if include.item.dates -%}<p>{{ include.item.dates }}</p>{%- endif -%}
+    {%- if include.item.start_date -%}
+      <p>
+        {{ start_date | date: "%b %Y" }} - {% if end_date_item == "now" %}Present {% else %}{{ end_date | date: "%b %Y" | append: " " }}{%- endif -%}
+        ({%- if diffYears > 0 -%}{{ diffYears | append: " yrs" }}{%- endif -%}{%- if diffYears > 0 and diffMonths > 0 -%}{{" "}}{%- endif -%}{%- if diffMonths > 0 -%}{{ diffMonths | append: " mos" }}{%- endif -%})
+      </p>
+    {%- endif -%}
     {%- if include.item.city -%}<p class="uppercase"><b>{{ include.item.city }}</b></p>{%- endif -%}
   </div>
   <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">

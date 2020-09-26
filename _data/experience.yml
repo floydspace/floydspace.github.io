@@ -4,7 +4,7 @@
   logo: images/logo-blanco.png
   link: www.useblanco.com
   job_title: Serverless Guru
-  dates: September 2018 - Present
+  start_date: September 2018
   description: |
     - Develop front-end SPA application, improve performance and code quality
     - Architect and develop from scratch new microservices taking into account scalability
@@ -17,7 +17,8 @@
   logo: images/kaspersky-logo.svg
   link: www.kaspersky.com
   job_title: Web Developer
-  dates: January 2018 - September 2018
+  start_date: January 2018
+  end_date: September 2018
   description: |
     - Worked as part of team on new features and bugs
     - Migrated about 5% of Backbone application to Angular taking into account common architectural decisions
@@ -31,7 +32,8 @@
   logo: images/saritasa-logo.svg
   link: www.saritasa.com
   job_title: .NET Developer
-  dates: January 2016 - December 2017
+  start_date: January 2016
+  end_date: December 2017
   description: |
     - Worked on different .NET projects as a full-stack web developer
     - Migrated legacy ASP.NET WebForms applications to the new client-server architecture approach with RESTful API
@@ -45,7 +47,8 @@
   logo: images/kubank-logo.png
   link: www.kubank.ru
   job_title: Treasury Department Specialist
-  dates: May 2012 - December 2015
+  start_date: May 2012
+  end_date: December 2015
   description: |
     - Mainly I was responsible for dealer transactions such as interbank and forex trades, banknote and repos transactions
     - By my own initiative, I automated some business processes inside department which helped to make decisions during management the bank liquidity lifecycle
@@ -57,7 +60,8 @@
   logo: images/alor-logo.jpg
   link: www.alor.ru
   job_title: Branch Manager, Equity Trader
-  dates: October 2010 - May 2012
+  start_date: October 2010
+  end_date: May 2012
   description: |
     - I was mainly responsible for intraday dealer transactions with *equities* and *futures*
     - Apart from trading I was leading the team of traders like me, managed their trade risks and had the operational duties
@@ -70,7 +74,8 @@
   logo: images/eurogreen-logo.png
   link: www.eurogreen.ru
   job_title: Equity Trader
-  dates: September 2006 - September 2010
+  start_date: September 2006
+  end_date: September 2010
   description: |
     - Intraday dealer operations with *equities* and *futures* were my main responsibility
     - Apart from trading I was training and recruiting freshpeople on the equity trader role
