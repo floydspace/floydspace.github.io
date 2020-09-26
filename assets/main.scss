@@ -90,6 +90,12 @@
     display: flex;
     justify-content: space-between;
   }
+  .header-contianer {
+    margin-top: 0;
+  }
+  mark {
+    padding: 0;
+  }
 }
 
 @media not print {
