@@ -44,7 +44,7 @@
 - layout: custom
   name: Koltso Urala Bank
   city: Yekaterinburg
-  logo: images/kubank-logo.png
+  logo: images/kubank-logo.svg
   link: www.kubank.ru
   job_title: Treasury Department Specialist
   start_date: May 2012
@@ -57,7 +57,7 @@
 - layout: custom
   name: ALOR Group
   city: Yekaterinburg
-  logo: images/alor-logo.jpg
+  logo: images/alor-logo.png
   link: www.alor.ru
   job_title: Branch Manager, Equity Trader
   start_date: October 2010
