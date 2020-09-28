@@ -29,7 +29,7 @@
 
 .skills-container {
   .details {
-    height: 150px;
+    height: 140px;
     display: flex;
     flex-flow: wrap;
     flex-direction: column;
@@ -108,5 +108,14 @@
         color: lightgray !important;
       }
     }
+  }
+}
+
+p.quote {
+  padding: 0;
+  text-align: inherit;
+
+  @media print {
+    padding: 0;
   }
 }

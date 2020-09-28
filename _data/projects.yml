@@ -1,0 +1,24 @@
+- layout: left
+  name: serverless-esbuild
+  link: floydspace.github.io/serverless-esbuild
+  github: floydspace/serverless-esbuild
+  quote: >
+    💨 A Serverless framework plugin to bundle JavaScript and TypeScript with extremely fast `esbuild`.
+  description: |
+    I initiated it because no one has done it yet.
+- layout: left
+  name: dynamit-cli
+  link: floydspace.github.io/dynamodb-migrations-tool
+  github: floydspace/dynamodb-migrations-tool
+  quote: >
+    🧨 The DynamoDB Migrations Tool Command Line Interface (dynamit-cli).
+  description: |
+    It's like `sequelize-cli` implemented for migrating dynamodb tables, It serves as alternative to cloudformation, because CF has gsi multiple updates limitation.
+- layout: left
+  name: isin-validator
+  link: github.com/floydspace/isin-validator
+  github: floydspace/isin-validator
+  quote: >
+    International Securities Identification Number (ISIN) validator.
+  description: |
+    Initiated as a fork of `node-isin-validator` refactored and adapted for browser target.
