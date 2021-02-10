@@ -7,6 +7,14 @@
   description: |
     I initiated it because no one has done it yet.
 - layout: left
+  name: aws-lambda-nodejs-esbuild
+  link: floydspace.github.io/aws-lambda-nodejs-esbuild
+  github: floydspace/aws-lambda-nodejs-esbuild
+  quote: >
+    λ💨 AWS CDK Construct to bundle JavaScript and TypeScript AWS lambdas using extremely fast `esbuild`.
+  description: |
+    I created it as an alternative to build-in `@aws-cdk/aws-lambda-nodejs` which had been extremely slow to build by the time.
+- layout: left
   name: dynamit-cli
   link: floydspace.github.io/dynamodb-migrations-tool
   github: floydspace/dynamodb-migrations-tool
