@@ -4,6 +4,14 @@
 
 @import 'modern-resume-theme';
 
+.layout {
+  display: block;
+}
+
+.projects-container h3, .experience-container h3, .education-container h3 {
+  margin-bottom: 0;
+}
+
 .uppercase {
   text-transform: uppercase;
 }
