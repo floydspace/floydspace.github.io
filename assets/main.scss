@@ -2,13 +2,16 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import 'modern-resume-theme';
+@import "modern-resume-theme";
+@import "eyes";
 
 .layout {
   display: block;
 }
 
-.projects-container h3, .experience-container h3, .education-container h3 {
+.projects-container h3,
+.experience-container h3,
+.education-container h3 {
   margin-bottom: 0;
 }
 
@@ -80,7 +83,6 @@
         display: none;
       }
     }
-
   }
   .point.on {
     i {
@@ -89,7 +91,6 @@
         display: initial;
       }
     }
-
   }
 }
 

@@ -1,0 +1,43 @@
+.eyes {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 65px;
+  left: -9px;
+  height: 25px;
+
+  .eye {
+    visibility: visible;
+    transition: width 250ms linear, height 250ms linear, margin 250ms linear;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #fff;
+    margin: 0px 4px;
+    overflow: hidden;
+    display: flex;
+    border: 2px solid black;
+  }
+
+  .eye::before {
+    content: "";
+    position: relative;
+    width: 8px;
+    height: 8px;
+    top: 50%;
+    left: 10px;
+    border-radius: 50%;
+    background: #000;
+    transform: translateX(-50%);
+  }
+}
+
+.hover .eyes .eye {
+  width: 0;
+  height: 0;
+  margin: 0px 16px;
+  visibility: hidden;
+  transition: visibility 0ms 250ms, width 250ms linear, height 250ms linear,
+    margin 250ms linear;
+}

@@ -10,9 +10,11 @@
   score: [1,1,1,1,1]
 - skill: C# .NET
   score: [1,1,1,1]
-- skill: Cordova
+- skill: React
   score: [1,1,1,1]
 - skill: Golang
+  score: [1,1,1]
+- skill: Python
   score: [1,1,1]
 - skill: Docker
   score: [1,1,1]
