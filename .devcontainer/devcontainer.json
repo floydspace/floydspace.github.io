@@ -1,0 +1,12 @@
+{
+  "name": "Jekyll",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [
+    4000, // Jekyll server
+    35729 // Live reload server
+  ],
+  "postCreateCommand": "sh .devcontainer/post-create.sh",
+  "remoteUser": "vscode"
+}
