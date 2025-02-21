@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116">
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="50" viewBox="0 0 116 50">
   <g id="Layer_1" data-name="Layer 1" transform="translate(-3 -4)">
     <g id="Group_84" data-name="Group 84" transform="translate(3 4)">
-      <rect id="Rectangle_169" data-name="Rectangle 169" width="116" height="116" fill="#151515"/>
-      <g id="tmPRO" transform="translate(17.237 49.276)" style="isolation: isolate">
+      <rect id="Rectangle_169" data-name="Rectangle 169" width="116" height="50" fill="#151515"/>
+      <g id="tmPRO" transform="translate(17.237 16.276)" style="isolation: isolate">
         <g id="Group_86" data-name="Group 86" transform="translate(0 0.683)" style="isolation: isolate">
           <path id="Path_282" data-name="Path 282" d="M106.426,255.088H100.17v11.731H93.544V255.088H87.28V250.23h19.146Z" transform="translate(-87.28 -250.23)" fill="#fff"/>
           <path id="Path_283" data-name="Path 283" d="M227,250.23v16.589h-6.541v-8.982l-5.451,6.8h-.332l-5.451-6.8v8.982h-6.4V250.23h7.252l4.937,6.564L220,250.23Z" transform="translate(-180.01 -250.23)" fill="#fff"/>
