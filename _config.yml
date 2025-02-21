@@ -5,16 +5,16 @@ darkmode: false
 
 # Personal info
 name: Victor Korzunin
-title: Senior Software Engineer
+title: Lead Software Engineer
 address: Rotterdam, The Netherlands
 website: floydspace.github.io
 
 # Social links
 github_username: floydspace
 npm_username: f1oyd
-facebook_username: f10yd
 instagram_username: victor_korzunin
 linkedin_username: korzunin
+twitter_username: F1oydRose
 
 # Google Analytics and Tag Manager
 gtag: UA-155264465-1
@@ -23,7 +23,7 @@ gtag: UA-155264465-1
 # about_title: Profile
 about_profile_image: images/profile.jpeg
 about_content: |
-  Formerly I used to be a financial market trader and had been working in financial companies and a bank for 10 years in common. Software Development was one of my hobbies which helped me in my work. Recently I decided to do software development professionally and realized it is what I've desired to be doing.
+  I have been an experienced/lead Node.js, JavaScript/TypeScript developer and engineer since 2016, and I have been working with AWS cloud since 2018. Before that, I worked as a financial markets trader and had been working in financial companies and a bank for 10 years. Lately, I have been working in fintech, where I have gained valuable experience creating innovative solutions for the financial sector. My background in finance has given me a deep understanding and appreciation of the industry, and I am passionate about leveraging my knowledge and expertise to drive positive change in this dynamic field.
 
 # Skills Section
 # skills_title: Skills

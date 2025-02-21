@@ -15,18 +15,27 @@
   description: |
     I created it as an alternative to build-in `@aws-cdk/aws-lambda-nodejs` which had been extremely slow to build by the time.
 - layout: left
-  name: dynamit-cli
-  link: floydspace.github.io/dynamodb-migrations-tool
-  github: floydspace/dynamodb-migrations-tool
+  name: effect-aws
+  link: floydspace.github.io/effect-aws
+  github: floydspace/effect-aws
   quote: >
-    🧨 The DynamoDB Migrations Tool Command Line Interface (dynamit-cli).
+    🚰 Effectful AWS.
   description: |
-    It's like `sequelize-cli` implemented for migrating dynamodb tables, It serves as alternative to cloudformation, because CF has gsi multiple updates limitation.
+    @effect-aws is a collection of libraries for working with AWS services wrapped in the Effect type, to make them easier to use with the Effect ecosystem.
 - layout: left
-  name: isin-validator
-  link: github.com/floydspace/isin-validator
-  github: floydspace/isin-validator
+  name: prisma-sequelize-generator
+  link: github.com/floydspace/prisma-sequelize-generator
+  github: floydspace/prisma-sequelize-generator
   quote: >
-    International Securities Identification Number (ISIN) validator.
+    🏳️‍🌈⃤ Sequelize models generator for prisma schema.
   description: |
-    Initiated as a fork of `node-isin-validator` refactored and adapted for browser target.
+    Takes a Prisma 2 `schema.prisma` and generates Sequelize Models.
+    Useful when you are not happy with `@prisma/client`, but advocate single source of truth approach
+- layout: left
+  name: effect-kafka
+  link: floydspace.github.io/effect-kafka
+  github: floydspace/effect-kafka
+  quote: >
+    📨 Effectful Kafka.
+  description: |
+    effect-kafka is a Kafka client for Effect. It provides a purely functional interface to the Kafka client and integrates effortlessly with Effect ecosystem.

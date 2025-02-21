@@ -1,12 +1,10 @@
 - layout: custom
   logo: images/aws-logo.png
-  badge: images/aws-badge.png
   link: https://www.youracclaim.com/badges/687e097d-4a5d-4db1-ba86-c19b22458967
   dates: Oct 2019 - Oct 2022
   qualification: AWS Certified Solutions Architect - Associate
 - layout: custom
   logo: images/microsoft-logo.png
-  badge: images/microsoft-badge.png
   link: https://www.youracclaim.com/badges/126384ae-4c49-4954-a71b-dec69797c21c
   dates: Nov 2016
   qualification: 'Exam 483: Programming in C# Microsoft Certified Professional'

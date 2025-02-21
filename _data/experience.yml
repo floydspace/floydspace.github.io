@@ -1,10 +1,39 @@
 - layout: custom
+  name: Nationale-Nederlanden
+  city: The Hague
+  logo: images/logo-nn.svg
+  link: www.nn.nl
+  job_title: DevOps Applications Engineer
+  start_date: November 2023
+  description: |
+    - Reduced lambda functions bundle size in half thereby improved cold start performance
+    - Improved testing experience by introducing property based testing using fast-check and object substitutions
+
+    **Stack**: <mark>NodeJS</mark>, <mark>React Native</mark>, <mark>Serverless</mark>, <mark>AWS</mark>, <mark>Lambda</mark>, <mark>S3</mark>, <mark>DynamoDB</mark>, <mark>SQS</mark>, <mark>SNS</mark>
+- layout: custom
+  name: TM-Pro
+  city: Amsterdam
+  logo: images/l_tm-pro.svg
+  link: www.tm-pro.eu
+  job_title: Lead Backend Engineer
+  start_date: September 2022
+  end_date: October 2023
+  description: |
+    - Took over lead backend engineer position in the team of 3 engineers to move one of the company products to the next level
+    - Made API contract more strict and robust by introducing OpenAPI 3.0 specification and validating it on test stage
+    - Refined new features requirements with product owner and the team to make sure that all the edge cases are covered
+    - Improved maintainability of the product by refactoring and implementing functional programming patterns
+    - Improved test coverage and test results visibility so that features could be accepted with confidence
+
+    **Stack**: <mark>NodeJS</mark>, <mark>fp-ts</mark>, <mark>AWS CDK</mark>, <mark>Serverless</mark>, <mark>AWS</mark>, <mark>Lambda</mark>, <mark>S3</mark>, <mark>DynamoDB</mark>, <mark>SQS</mark>
+- layout: custom
   name: Blanco Fintech
   city: Rotterdam
   logo: images/logo-blanco.png
   link: www.useblanco.com
-  job_title: Solutions Architect
+  job_title: Lead Software Engineer
   start_date: September 2018
+  end_date: August 2022
   description: |
     - Develop front-end SPA application, improve performance and code quality
     - Architect and develop from scratch new microservices taking into account scalability

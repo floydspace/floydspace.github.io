@@ -2,19 +2,19 @@
   score: [1,1,1,1,1]
 - skill: NodeJS
   score: [1,1,1,1,1]
-- skill: Angular
+- skill: React
   score: [1,1,1,1,1]
 - skill: SQL
   score: [1,1,1,1,1]
 - skill: AWS
   score: [1,1,1,1,1]
-- skill: C# .NET
+- skill: Docker
   score: [1,1,1,1]
-- skill: React
+- skill: Python
+  score: [1,1,1,1]
+- skill: Angular
   score: [1,1,1,1]
 - skill: Golang
   score: [1,1,1]
-- skill: Python
-  score: [1,1,1]
-- skill: Docker
+- skill: C# .NET
   score: [1,1,1]
